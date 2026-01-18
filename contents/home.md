@@ -1,4 +1,4 @@
-[![mikumafu](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![mikumafu](https://img.shields.io/badge/mikumafu-github-blue?logo=github)](https://github.com/mikumafu)
 
 I am currently pursuing a master's degree at Nanjing University of Aeronautics and Astronautics.
 
